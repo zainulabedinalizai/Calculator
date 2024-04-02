@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator using generics and exception", "Calculator using generics and exception\Calculator using generics and exception.csproj", "{3013F96A-2C89-4300-BFB6-06F865F76359}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3013F96A-2C89-4300-BFB6-06F865F76359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3013F96A-2C89-4300-BFB6-06F865F76359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3013F96A-2C89-4300-BFB6-06F865F76359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3013F96A-2C89-4300-BFB6-06F865F76359}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1BFBBF5-C01C-4B96-8517-43BA46AD467E}
+	EndGlobalSection
+EndGlobal
